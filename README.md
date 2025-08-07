@@ -20,6 +20,17 @@ Bhanu Prakash, Sachin Srivastava, Rupesh Kumar et al. A Numerical and Security A
 
 **This code should not be used for any malicious purposes or unauthorized cryptographic attacks.** Users are responsible for complying with all applicable laws and institutional policies regarding cryptographic research.
 
+## Results
+
+![Quantum Cryptanalysis Results](images/visualization_20250807_035945.png)
+
+### Training Progress and Security Assessment
+The visualization shows four key components of our quantum cryptanalysis:
+- **Top Left**: QNN training accuracy progression on real quantum hardware
+- **Top Right**: Shor's algorithm measurement results for factoring N=15
+- **Bottom Left**: Final QNN performance compared to 80% accuracy target
+- **Bottom Right**: Security vulnerability assessment showing 57% vulnerability probability
+
 ## Demo Overview
 
 This demo demonstrates the quantum threat to classical cryptography through a complete end-to-end system that:
