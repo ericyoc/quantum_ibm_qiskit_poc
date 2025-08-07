@@ -1,4 +1,4 @@
-# Quantum cryptographic security: RSA Breaking Demo
+# Quantum Cryptographic Security: RSA Breaking Demo
 
 A demonstration of quantum cryptanalysis combining **Shor's Algorithm** for RSA factorization with **Quantum Neural Networks** for cryptographic security assessment, running on real IBM quantum computers.
 
