@@ -3,6 +3,8 @@
 A demonstration of quantum cryptanalysis combining **Shor's Algorithm** for RSA factorization with **Quantum Neural Networks** for cryptographic security assessment, running on real IBM quantum computers.
 
 ## Motivating Research
+A. Jagatha et al., "A Novel Approach to Quantum-Resistant Selective Encryption for Agricultural Sensors with Limited Resources," 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2025, pp. 00262-00271, doi: 10.1109/CCWC62904.2025.10903955. http://ieeexplore.ieee.org/abstract/document/10903955
+
 Bhanu Prakash, Sachin Srivastava, Rupesh Kumar et al. A Numerical and Security Analysis of RSA: From Classical Encryption to Post-Quantum Strategies, 09 April 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-6347614/v1]
 
 ## ACADEMIC AND RESEARCH DISCLAIMER
