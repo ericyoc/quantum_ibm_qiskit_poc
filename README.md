@@ -131,7 +131,7 @@ pip install numpy matplotlib scipy
 
 2. **Get API Token**: 
    - Go to Account Settings → API Token
-   - Copy your API token
+   - Copy API token
 
 3. **Store Token in Google Colab**:
    ```python
