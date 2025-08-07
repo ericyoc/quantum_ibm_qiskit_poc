@@ -22,7 +22,7 @@ Bhanu Prakash, Sachin Srivastava, Rupesh Kumar et al. A Numerical and Security A
 
 ## Results
 
-![Quantum Cryptanalysis Results](images/visualization_20250807_035945.png)
+![Quantum Cryptanalysis Results](visualization_20250807_035945.png)
 
 ### Training Progress and Security Assessment
 The visualization shows four key components of our quantum cryptanalysis:
